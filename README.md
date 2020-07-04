@@ -4,7 +4,7 @@ Esse projeto foi desenvolvido para dar sequencia a um escopo de código mãe de 
 
 ## Getting Started
 
-Este projeto leva em consideração o apedizado e as habilidades necessárias para se obter resultados no mundo dos códigos
+Este projeto leva em consideração o apedizado e as habilidades necessárias para se obter resultados no mundo dos códigos, utlizando conhecimentos avançados de psicologia e pedagogia anlítica.
 
 ### Prerequisites
 
